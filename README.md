@@ -1,16 +1,13 @@
 # random_user
 
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191526508-39a3a0f1-41b4-46b1-82a2-0754eac264c5.png)
+
 A new Flutter project.
 
-## Getting Started
+# Sample video
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/108392662/196053442-a38a368e-96f0-4924-859b-86cd70374113.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Sample image
+<img src="https://user-images.githubusercontent.com/108392662/196053446-385b57fd-d22f-4e3b-b409-3fca8dce6ba3.jpg"  width="300" height="600">
